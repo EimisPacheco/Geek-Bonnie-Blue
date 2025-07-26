@@ -2,7 +2,7 @@
 
 ### **Video Title**: "FlightRiskRadar: AI-Powered Flight Risk Analysis & Insurance Advisor"
 
-- **Vimeo** - Professional presentation](https://vimeo.com/1104757487?share=copy)
+- **Vimeo** - Professional presentation](https://vimeo.com/1104757487)
 
 1. **Real Problem**: Insurance confusion is universal
 2. **AI Solution**: Multi-agent system with specialized expertise

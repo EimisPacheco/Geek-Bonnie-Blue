@@ -1,6 +1,6 @@
 ## **🎬 Demo Video Script & Structure**
 
-### **Video Title**: "FlightRiskRadar: AI-Powered Flight Risk Analysis & Insurance Advisor"
+### **Video Title**: FlightRiskRadar: AI-Powered Flight Risk Analysis & Insurance Advisor
 
 - **Vimeo** - Professional presentation](https://vimeo.com/1104757487)
 

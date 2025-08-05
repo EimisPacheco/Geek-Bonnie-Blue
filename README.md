@@ -101,6 +101,8 @@ Data Sources (SerpAPI, BigQuery, Weather APIs)
 - **Gemini 2.0 Flash** for intelligent analysis and recommendations
 - **Google BigQuery** for historical flight data analysis
 - **SerpAPI** for real-time flight search and pricing
+- **SOpenWeatherI** for real-time weather information
+- **ElevenLabs** to supports voice input and output.
 
 **AI Agents:**
 - **Data Analyst Agent**: Flight data retrieval and processing
